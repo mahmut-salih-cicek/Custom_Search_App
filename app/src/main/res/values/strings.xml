@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Custom_Search_Beta</string>
+    <string-array name="file_type">
+        <item>FİLE</item>
+        <item>pdf</item>
+        <item>ps</item>
+        <item>dwf</item>
+        <item>kml</item>
+        <item>kmz</item>
+        <item>xls</item>
+        <item>ppt</item>
+        <item>rtf</item>
+        <item>doc</item>
+        <item>swf</item>
+    </string-array>
+    
+    <string-array name="language">
+
+        <item>Lanquage</item>
+        <item>ru</item>
+        <item>tr</item>
+        <item>en</item>
+        <item>de</item>
+        <item>ar</item>
+        <item>zh-CN</item>
+        <item>hy</item>
+        <item>fa</item>
+        <item>fr</item>
+        <item>iw</item>
+        <item>es</item>
+        <item>it</item>
+        <item>ja</item>
+        <item>pt</item>
+        <item>el</item>
+
+    </string-array>
+
+    <string-array name="region">
+
+        <item>Region</item>
+        <item>DE</item>
+        <item>US</item>
+        <item>AZ</item>
+        <item>AE</item>
+        <item>TR</item>
+
+    </string-array>
+
+
+    <string-array name="timeZone">
+        <item>Time Zone</item>
+        <item>y</item>
+        <item>w</item>
+        <item>d</item>
+        <item>m</item>
+        <item>all</item>
+
+    </string-array>
+    
+    
+    
+    
+</resources>
